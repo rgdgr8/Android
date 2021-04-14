@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List</string>
+
+    <string-array name="names">
+        <item>CAT</item>
+        <item>DOG</item>
+        <item>RAT</item>
+    </string-array>
+</resources>

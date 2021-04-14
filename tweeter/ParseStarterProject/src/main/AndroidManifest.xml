@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.parse.starter">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <meta-data
+        android:name="com.parse.SERVER_URL"
+        android:value="http://13.59.48.214:80/parse" />
+    <meta-data
+        android:name="com.parse.APPLICATION_ID"
+        android:value="98d9eea22e94400e1a78562e35b460728d3ac615" />
+    <meta-data
+        android:name="com.parse.CLIENT_KEY"
+        android:value="912b936af1a8905c3b23c394d41a5d780edd2d30" />
+
+    <application
+        android:name=".StarterApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity android:name=".FeedActivity"></activity>
+        <activity android:name=".UserActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">List App</string>
+    <string name="textview">TextView</string>
+    <string-array name="Us">
+        <item>YOU</item>
+        <item>MINE</item>
+        <item>YOU AND I</item>
+    </string-array>
+    <string-array name="Ratings">
+        <item>10/10</item>
+        <item>1000/10</item>
+        <item>10000/10</item>
+    </string-array>
+    <string-array name="Description">
+        <item>The best thing that happened to me</item>
+        <item>The best thing to ever rest on my face</item>
+        <item>THE BEST</item>
+    </string-array>
+</resources>

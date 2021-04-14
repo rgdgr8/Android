@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_tweet.jpg.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/drawable/tweet.jpg"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user.xml.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user.xml"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_insta.png.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/drawable/insta.png"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/menu_share_menu.xml.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/menu/share_menu.xml"
+    },
+    {
+        "merged": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_feed.xml.flat",
+        "source": "/Users/rgdgr8/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_feed.xml"
+    }
+]
