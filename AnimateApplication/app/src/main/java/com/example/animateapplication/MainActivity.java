@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         ImageView tylerimageview=(ImageView)findViewById(R.id.tylerimageView);
         ImageView unnamedimageview=(ImageView)findViewById(R.id.unnamedimageView);
 
-        if (burt==true) {
+        if (burt) {
             burt=false;
             unnamedimageview.animate().alpha(0).setDuration(2000);
             tylerimageview.animate().alpha(1).setDuration(2000);
